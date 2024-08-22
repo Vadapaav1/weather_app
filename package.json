@@ -1,0 +1,20 @@
+{
+  "name": "youtube-tutorials-projects-nodejs-projects",
+  "version": "1.0.0",
+  "description": "Welcome to the Fullstack Web Development with MERN repository! Here you'll find a series of YouTube tutorials and projects that will teach you how to build fullstack web applications using the latest technologies, including HTML, CSS, JavaScript, Node.js, Express, Mongoose, and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "request": "^2.88.2"
+  }
+}
